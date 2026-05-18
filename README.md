@@ -14,16 +14,16 @@ DoctorLite is designed to make healthcare assistance more accessible, interactiv
 ---
 
 Features
-🎤 Voice-based interaction
-🤖 AI-powered health assistant
-🩺 Symptom analysis support
-💊 Medicine reminder system
-🔐 Secure user authentication
-☁️ Cloud-based data management
-📱 User-friendly interface
-⚡ Real-time responses
-📊 Health data tracking
-🌐 Smart healthcare accessibility
+. 🎤 Voice-based interaction
+. 🤖 AI-powered health assistant
+. 🩺 Symptom analysis support
+. 💊 Medicine reminder system
+. 🔐 Secure user authentication
+. ☁️ Cloud-based data management
+. 📱 User-friendly interface
+. ⚡ Real-time responses
+. 📊 Health data tracking
+. 🌐 Smart healthcare accessibility
 ---
 
 ## 🛠️ Tech Stack
@@ -79,24 +79,24 @@ flutter run
 
 ## Folder Structure
 
-lib/
-├── screens/
-├── widgets/
-├── services/
-├── models/
-├── voice/
-├── authentication/
-└── main.dart
+.lib/
+.├── screens/
+.├── widgets/
+.├── services/
+.├── models/
+.├── voice/
+.├── authentication/
+.└── main.dart
 
 ---
 
 ## Future Improvements
-🧠 Advanced AI diagnosis assistance
-🌍 Multi-language voice support
-📅 Appointment booking integration
-📡 Wearable device integration
-🏥 Hospital connectivity
-📈 AI health analytics dashboard
+. 🧠 Advanced AI diagnosis assistance
+. 🌍 Multi-language voice support
+. 📅 Appointment booking integration
+. 📡 Wearable device integration
+. 🏥 Hospital connectivity
+. 📈 AI health analytics dashboard
 
 ## Screenshots
 
@@ -115,7 +115,8 @@ This project is licensed under the MIT License.
 ## Author
 
 K.Kavya Sree
-Engineering Student | AI & App Development Enthusiast
+. Engineering Student 
+. AI & App Development Enthusiast
 
 ## GitHub Topics (Recommended)
 flutter
