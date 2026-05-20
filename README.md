@@ -109,11 +109,11 @@ flutter run
 
 Add your project screenshots here.
 <p align="center">
-<img width="300" height="200" alt="home (1)" src="https://github.com/user-attachments/assets/70d77855-c497-4612-aff3-f707b5b167fe" />
+<img width="200" height="300" alt="home (1)" src="https://github.com/user-attachments/assets/70d77855-c497-4612-aff3-f707b5b167fe" />
 &nbsp;&nbsp;&nbsp;
-<img width="300" height="200" alt="history" src="https://github.com/user-attachments/assets/03bb3414-08c6-4d37-97ee-6eb1503e9540" />
+<img width="200" height="300" alt="history" src="https://github.com/user-attachments/assets/03bb3414-08c6-4d37-97ee-6eb1503e9540" />
 &nbsp;&nbsp;&nbsp;
-<img width="300" height="200" alt="output" src="https://github.com/user-attachments/assets/f05f729a-03b3-490a-b1dc-8b9fe8f36907" />
+<img width="200" height="300" alt="output" src="https://github.com/user-attachments/assets/f05f729a-03b3-490a-b1dc-8b9fe8f36907" />
 </p>
 
 ## Contributing
